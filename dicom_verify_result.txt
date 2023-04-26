@@ -1,0 +1,5 @@
+dciodvfy.exe output2.dcm
+
+Warning - Encapsulated pixel data fragment is not even length
+MultiframeTrueColorSCImage
+Error - JPEG 2000 reversible transfer syntax is required to have PhotometricInterpretation of YBR_RCT - attribute <PhotometricInterpretation> = <RGB>
